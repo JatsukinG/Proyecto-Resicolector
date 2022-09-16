@@ -21,6 +21,10 @@ El esquema de este circuito se puede observar en Esquema_recicolector_bb.png
 
 https://raw.githubusercontent.com/JatsukinG/Proyecto-Resicolector/main/Esquema_Resicolector_bb.png
 
+<p align="center">
+  <img src="Esquema_Resicolector_bb.png" width="350" title="hover text">
+</p>
+
 --------------------------------------------------------------------------------------------------------------------
 
 Para realizar la calibracion de cada uno de los sensores se debe hacer uso del archivo adjunto Calibracion_celdas_de_carga.ino, este debe ser cargado al arduino
