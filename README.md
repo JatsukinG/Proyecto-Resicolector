@@ -22,7 +22,7 @@ El esquema de este circuito se puede observar en Esquema_recicolector_bb.png
 https://raw.githubusercontent.com/JatsukinG/Proyecto-Resicolector/main/Esquema_Resicolector_bb.png
 
 <p align="center">
-  <img src="Esquema_Resicolector_bb.png" width="350" title="hover text">
+  <img src="Esquema_Resicolector_bb.png" width="1000" title="hover text">
 </p>
 
 --------------------------------------------------------------------------------------------------------------------
