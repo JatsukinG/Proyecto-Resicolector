@@ -18,9 +18,6 @@ Leer los comentarios del codigo de Arduino para entender la logica de funcionami
 
 El esquema de este circuito se puede observar en Esquema_recicolector_bb.png
 
-
-https://raw.githubusercontent.com/JatsukinG/Proyecto-Resicolector/main/Esquema_Resicolector_bb.png
-
 <p align="center">
   <img src="Esquema_Resicolector_bb.png" width="1000" title="hover text">
 </p>
@@ -44,6 +41,10 @@ El archivo Resicolector_Recepsion.ino corresponde al codigo para el circuito que
 la informacion a la API
 
 El esquema de este circuito se puede observar en Esquema_Resicolector_receptor.png
+
+<p align="center">
+  <img src="Esquema_Resicolector_recepcion.png" width="1000" title="hover text">
+</p>
 
 ¡¡Importante tener en cuenta que a la hora de subir el codigo se debe configuar el IDE Arduino en el aparatado de herramientas de la siguiente manera:
 
