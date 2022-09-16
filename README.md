@@ -19,7 +19,7 @@ Leer los comentarios del codigo de Arduino para entender la logica de funcionami
 El esquema de este circuito se puede observar en Esquema_recicolector_bb.png
 
 
-https://raw.githubusercontent.com/JatsukinG/Proyecto-Resicolector/Esquema_recicolector_bb.png
+https://raw.githubusercontent.com/JatsukinG/Proyecto-Resicolector/main/Esquema_resicolector_bb.png
 
 --------------------------------------------------------------------------------------------------------------------
 
