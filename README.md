@@ -16,6 +16,8 @@ Cuando se inicie el sistema No debe haber ningun peso en los Resicolectores, de 
 
 Leer los comentarios del codigo de Arduino para entender la logica de funcionamiento.
 
+El esquema de este circuito se puede observar en Esquema_recicolector_bb.png
+
 --------------------------------------------------------------------------------------------------------------------
 
 Para realizar la calibracion de cada uno de los sensores se debe hacer uso del archivo adjunto Calibracion_celdas_de_carga.ino, este debe ser cargado al arduino
